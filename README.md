@@ -29,7 +29,7 @@ This sample showcases:
 
 * TODO : showcase......
 
-<img src="screenshots/sample.gif"/>
+<img src="screenshots/stl_chat_demo.jpg"/>
 
 
 ### Samples
