@@ -24,13 +24,13 @@ stl-ui using the [Architecture Components](https://developer.android.com/arch):
 - [Coroutine](https://developer.android.com/kotlin/coroutines)
 
 
-
+```
 This sample showcases:
 
 * TODO : showcase......
 
 <img src="screenshots/stl_chat_demo.jpg"/>
-
+```
 
 ### Samples
 
